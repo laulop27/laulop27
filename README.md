@@ -7,6 +7,16 @@
 - 🚀 I'm currently looking for **internships as a Data Analyst / Data Scientist** where I can add value by solving real business problems.
 - 🧠 In my free time, I am deepening my knowledge in Machine Learning, Visualization with Power BI, and Relational Databases.
 
+---
+
+### 📈 Mis Estadísticas en GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&langs_count=5&theme=radical"/>
+</div>
+
+---
+
 ### 🛠️ Languages ​​and Tools
 
 > **Languages:**
