@@ -11,8 +11,8 @@
 
 ### 📈 Mis Estadísticas en GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&langs_count=5&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laulop27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulop27&layout=compact&langs_count=5&theme=radical"/>
 </div>
 
 ---
