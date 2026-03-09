@@ -32,7 +32,7 @@
 
 
 ### 🚀 Featured Projects
-1. 🚗 **[Predicción de Precios de Vehículos de Segunda Mano](pon-aqui-el-enlace-al-repo-del-proyecto)**
+1. **[Predicción de Precios de Vehículos de Segunda Mano](pon-aqui-el-enlace-al-repo-del-proyecto)**
    * **Objetivo:** Creación de una herramienta de apoyo a la toma de decisiones para concesionarios estimando el precio de coches usados (dataset de India).
    * **Modelos entrenados:** Regresión StepBIC, Árboles de Decisión, Random Forest y Gradient Boosting.
    * **Resultados:** El modelo Random Forest obtuvo un rendimiento sobresaliente con un $R^2$ de 0.85 en test, superando a los modelos base sin sufrir sobreajuste grave.
