@@ -9,14 +9,16 @@
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
+### 📈 My GitHub Stats
 
-[![Estadísticas de laulop27](https://github-readme-stats.vercel.app/api?username=laulop27&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/laulop27)
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=laulop27&layout=compact&langs_count=5&theme=radical)](https://github.com/laulop27)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laulop27&show_icons=true&theme=radical&include_all_commits=true" alt="Laura's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulop27&layout=compact&langs_count=5&theme=radical" alt="Laura's Top Languages" />
+</p>
 
 ---
 
-### 🛠️ Languages ​​and Tools
+### 🛠️ Languages and Tools
 
 > **Languages:**
 
@@ -32,24 +34,29 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
 > **Environments and Other Tools:**
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
 ### 🚀 Featured Projects
-1. **[Predicción de Precios de Vehículos de Segunda Mano](pon-aqui-el-enlace-al-repo-del-proyecto)**
+
+1. 🚗 **[Predicción de Precios de Vehículos de Segunda Mano](pon-aqui-el-enlace-al-repo-del-proyecto)**
    * **Objetivo:** Creación de una herramienta de apoyo a la toma de decisiones para concesionarios estimando el precio de coches usados (dataset de India).
    * **Modelos entrenados:** Regresión StepBIC, Árboles de Decisión, Random Forest y Gradient Boosting.
    * **Resultados:** El modelo Random Forest obtuvo un rendimiento sobresaliente con un $R^2$ de 0.85 en test, superando a los modelos base sin sufrir sobreajuste grave.
    * *Stack Técnico:* R, Limpieza de Datos, Machine Learning (Ensembles).
-2. **[Nombre de tu Proyecto 2](link-a-tu-repo)**
+
+2. 📊 **[Nombre de tu Proyecto 2](link-a-tu-repo)**
    * Modelo predictivo para [problema a resolver].
    * *Stack: Python, Scikit-Learn.*
+
+---
   
 ### 📫 How to contact me
-* My LinkedIn profile: https://www.linkedin.com/in/laura-l%C3%B3pez-rodr%C3%ADguez-682795381
-* Mail: laura.lopez.270315@gamil.com
+
+* 💼 **LinkedIn:** [Laura López Rodríguez](https://www.linkedin.com/in/laura-l%C3%B3pez-rodr%C3%ADguez-682795381)
+* 📧 **Mail:** [laura.lopez.270315@gmail.com](mailto:laura.lopez.270315@gmail.com)
