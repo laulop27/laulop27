@@ -50,10 +50,6 @@
    * **Resultados:** El modelo Random Forest obtuvo un rendimiento sobresaliente con un $R^2$ de 0.85 en test, superando a los modelos base sin sufrir sobreajuste grave.
    * *Stack Técnico:* R, Limpieza de Datos, Machine Learning (Ensembles).
 
-2. 📊 **[Nombre de tu Proyecto 2](link-a-tu-repo)**
-   * Modelo predictivo para [problema a resolver].
-   * *Stack: Python, Scikit-Learn.*
-
 ---
   
 ### 📫 How to contact me
