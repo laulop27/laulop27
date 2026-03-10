@@ -11,7 +11,7 @@ Hi 👋, I'm Laura López
 
 - 🎓 Data Science student at **Universidad Complutense de Madrid**
 - 📊 Passionate about **Machine Learning, data analysis and predictive modeling**
-- 💻 I work mainly with **Python, SQL and R**
+- 💻 I work mainly with **`Python`, `SQL` and `R`**
 - 🚀 Currently looking for **internships as Data Analyst / Data Scientist**
 - 📚 Currently learning **Machine Learning, Power BI and advanced data visualization**
 
