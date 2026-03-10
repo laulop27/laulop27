@@ -7,60 +7,124 @@ Hi 👋, I'm Laura López
 </p>
 
 
-### 👨‍💻 About me
+# 👨‍💻 About Me
 
-- 🎓 I'm a _Data Science student at Universidad Complutense de Madrid (UCM)_.
-- 💻 I'm passionate about **Machine Learning** and **data analysis**. My main tools in my day-to-day work are **`Python`, `SQL`, `R` and `Pandas`**, and I enjoy creating predictive models and analyzing trends.
-- 🚀 I'm currently looking for **internships as a Data Analyst / Data Scientist** where I can add value by solving real business problems.
-- 🧠 In my free time, I am deepening my knowledge in Machine Learning, Visualization with Power BI, and Relational Databases.
+- 🎓 Data Science student at **Universidad Complutense de Madrid**
+- 📊 Passionate about **Machine Learning, data analysis and predictive modeling**
+- 💻 I work mainly with **Python, SQL and R**
+- 🚀 Currently looking for **internships as Data Analyst / Data Scientist**
+- 📚 Currently learning **Machine Learning, Power BI and advanced data visualization**
 
-### 🛠️ Languages and Tools
+---
 
-> **Languages:**
+# 🛠️ Tech Stack
+
+### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-> **Data and Visualization Libraries:**
+### Data Science Libraries
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-> **Environments and Other Tools:**
+### Tools
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-1. **[Used Car Price Prediction (Machine Learning Project)](pon-aqui-el-enlace-al-repo-del-proyecto)** 🚗
-   * **Objective:** Creation of a decision support tool for car dealerships by estimating the price of used cars (India dataset).
-   * **Trained Models:** StepBIC Regression, Decision Trees, Random Forest, and Gradient Boosting.
-   * *Stack Técnico:* R | Random Forest | Gradient Boosting | Feature Engineering | Model Evaluation | Cross Validation.
 
 ---
 
+# 🚀 Featured Projects
 
-### 📈 My GitHub Stats
+### 🚗 Used Car Price Prediction
+
+Machine learning project to predict second-hand car prices using real-world data.
+
+> **Key Steps**
+
+- Data cleaning and preprocessing
+- Feature engineering
+- Model training and evaluation
+- Cross Validation
+
+> **Models Used**
+
+- Random Forest
+- Gradient Boosting
+- Decision Trees
+- StepBIC Regression
+
+> **Results**
+
+Best model achieved **R² = 0.85** on test data.
+
+**Tech Stack**
+
+`R` `Machine Learning` `Random Forest` `Gradient Boosting`
+
+👉 [View Project](PUT_YOUR_REPOSITORY_LINK)
+
+---
+
+### 📊 Exploratory Data Analysis Project
+
+Exploratory analysis of a real dataset identifying patterns, correlations and trends.
+
+**Key Skills**
+
+- Data Cleaning
+- Data Visualization
+- Feature Analysis
+
+**Tech Stack**
+
+`Python` `Pandas` `Matplotlib` `Seaborn`
+
+👉 [View Project](ADD_LINK)
+
+---
+
+### 📈 Data Visualization Dashboard
+
+Interactive dashboard built to analyze business metrics and trends.
+
+**Tech Stack**
+
+`Power BI` `Data Modeling` `Data Visualization`
+
+👉 [View Project](ADD_LINK)
+
+---
+
+# 📊 GitHub Activity and Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laulop27&theme=radical)
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laulop27&theme=radical" />
 </p>
 
-### 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laulop27&theme=radical)
 ---
-  
+
+# 📫 Connect With Me
+
 ### 📫 How to contact me
 
 * 💼 **LinkedIn:** [Laura López Rodríguez](https://www.linkedin.com/in/laura-l%C3%B3pez-rodr%C3%ADguez-682795381)
-* 📧 **Mail:** [laura.lopez.270315@gmail.com](mailto:laura.lopez.270315@gmail.com)
+* 📧 **Email:** [laura.lopez.270315@gmail.com](mailto:laura.lopez.270315@gmail.com)
+
+
+
+
+
