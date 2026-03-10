@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋, I'm Laura López
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student+|+Machine+Learning+|+Data+Analytics&center=true&width=850&height=45" alt="Typing SVG">
+</p>
+
 
 ### 👨‍💻 About me
 
@@ -7,17 +14,6 @@
 - 🚀 I'm currently looking for **internships as a Data Analyst / Data Scientist** where I can add value by solving real business problems.
 - 🧠 In my free time, I am deepening my knowledge in Machine Learning, Visualization with Power BI, and Relational Databases.
 
----
-
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laulop27&show_icons=true&theme=radical&include_all_commits=true" alt="Laura's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulop27&layout=compact&langs_count=5&theme=radical" alt="Laura's Top Languages" />
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 > **Languages:**
@@ -25,6 +21,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 > **Data and Visualization Libraries:**
 
@@ -44,12 +41,24 @@
 
 ### 🚀 Featured Projects
 
-1. **[Predicción de Precios de Vehículos de Segunda Mano](pon-aqui-el-enlace-al-repo-del-proyecto)** 🚗
+1. **[Used Car Price Prediction (Machine Learning Project)](pon-aqui-el-enlace-al-repo-del-proyecto)** 🚗
    * **Objetivo:** Creación de una herramienta de apoyo a la toma de decisiones para concesionarios estimando el precio de coches usados (dataset de India).
    * **Modelos entrenados:** Regresión StepBIC, Árboles de Decisión, Random Forest y Gradient Boosting.
    * **Resultados:** El modelo Random Forest obtuvo un rendimiento sobresaliente con un $R^2$ de 0.85 en test, superando a los modelos base sin sufrir sobreajuste grave.
-   * *Stack Técnico:* R, Limpieza de Datos, Machine Learning (Ensembles).
+   * *Stack Técnico:* R | Random Forest | Gradient Boosting | Feature Engineering | Model Evaluation | Cross Validation.
 
+---
+
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laulop27&theme=radical" />
+</p>
+
+### 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laulop27&theme=radical)
 ---
   
 ### 📫 How to contact me
