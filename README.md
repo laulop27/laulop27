@@ -42,9 +42,8 @@ Hi 👋, I'm Laura López
 ### 🚀 Featured Projects
 
 1. **[Used Car Price Prediction (Machine Learning Project)](pon-aqui-el-enlace-al-repo-del-proyecto)** 🚗
-   * **Objetivo:** Creación de una herramienta de apoyo a la toma de decisiones para concesionarios estimando el precio de coches usados (dataset de India).
-   * **Modelos entrenados:** Regresión StepBIC, Árboles de Decisión, Random Forest y Gradient Boosting.
-   * **Resultados:** El modelo Random Forest obtuvo un rendimiento sobresaliente con un $R^2$ de 0.85 en test, superando a los modelos base sin sufrir sobreajuste grave.
+   * **Objective:** Creation of a decision support tool for car dealerships by estimating the price of used cars (India dataset).
+   * **Trained Models:** StepBIC Regression, Decision Trees, Random Forest, and Gradient Boosting.
    * *Stack Técnico:* R | Random Forest | Gradient Boosting | Feature Engineering | Model Evaluation | Cross Validation.
 
 ---
