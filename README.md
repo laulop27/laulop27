@@ -66,7 +66,7 @@ Machine learning project to predict second-hand car prices using real-world data
 
 > **Results**
 
-Best model achieved **R² = 0.85** on test data.
+Best model achieved **R² = 0.8621** on test data.
 
 **Tech Stack**
 
