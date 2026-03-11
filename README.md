@@ -78,9 +78,16 @@ Best model achieved **R² = 0.8621** on test data.
 
 # 🧬 Unsupervised Machine Learning: Socioeconomic and Cancer Analysis
 * **Objective:** Reduce dimensionality and find hidden patterns in a dataset of economic and health indicators to segment regions.
-   * **Trained Models:** Principal Component Analysis (PCA), Clustering (Hierarchical and Non-Hierarchical), and Discriminant Analysis.
-   * **Results:** Creation of robust sociodemographic clusters, validated through discriminant functions with an 81.4% accuracy in classifying new observations.
-   * *Technical Stack:* SAS, Multivariate Analysis, Dimensionality Reduction, Clustering.
+> **Trained Models:**
+
+Principal Component Analysis (PCA), Clustering (Hierarchical and Non-Hierarchical), and Discriminant Analysis.
+> **Results:**
+
+Creation of robust sociodemographic clusters, validated through discriminant functions with an 81.4% accuracy in classifying new observations.
+
+> *Technical Stack:*
+
+`SAS`, `Multivariate Analysis`, `Dimensionality Reduction`, `Clustering`.
 
 👉 [View Project](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis)
 
