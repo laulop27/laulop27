@@ -76,7 +76,7 @@ Best model achieved **R² = 0.8621** on test data.
 
 ---
 
-# 🧬 Unsupervised Machine Learning: Socioeconomic and Cancer Analysis
+### 🧬 Unsupervised Machine Learning: Socioeconomic and Cancer Analysis
 * **Objective:** Reduce dimensionality and find hidden patterns in a dataset of economic and health indicators to segment regions.
 > **Trained Models:**
 
