@@ -93,15 +93,26 @@ Creation of robust sociodemographic clusters, validated through discriminant fun
 
 ---
 
-### 📈 Data Visualization Dashboard
+### 🏠 Airbnb Accommodation Price Prediction (Bologna)
 
-Interactive dashboard built to analyze business metrics and trends.
+Personal Machine Learning project using real-world data from Inside Airbnb (~4,600 listings, 80 variables) to predict accommodation prices.
+
+> **Key Steps**
+
+- Comprehensive dataset cleaning and encoding error fixes
+- Multicollinearity detection and outlier treatment
+- Feature engineering from JSON fields
+- Formal diagnosis of missing data mechanisms (MCAR/MAR) using nullity matrices, validating the relationship between missing host response data and listing age
+
+> **Results**
+
+Achieved **R² = [Inserta tu R² aquí]** with [Nombre del modelo principal].
 
 **Tech Stack**
 
-`Power BI` `Data Modeling` `Data Visualization`
+`Python` `Pandas` `Scikit-Learn` `Seaborn` `Missingno` `Machine Learning`
 
-👉 [View Project](ADD_LINK)
+👉 [View Project](https://github.com/laulop27/tu-nombre-de-repositorio)
 
 ---
 
