@@ -112,7 +112,7 @@ Achieved **R² = [Inserta tu R² aquí]** with [Nombre del modelo principal].
 
 `Python` `Pandas` `Scikit-Learn` `Seaborn` `Missingno` `Machine Learning`
 
-👉 [View Project](https://github.com/laulop27/tu-nombre-de-repositorio)
+👉 [View Project](https://github.com/laulop27/airbnb-price-prediction-bologna)
 
 ---
 
