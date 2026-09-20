@@ -51,7 +51,8 @@ Hi 👋, I'm Laura López
 | 🚗 **Used Car Price Prediction** | Machine learning project to predict second-hand car prices using real-world data. Best model: **R² = 0.8621**. | `R` `Random Forest` `Gradient Boosting` | [View project →](https://github.com/laulop27/prediccion-precios-coches) |
 | 🧬 **Socioeconomic and Cancer Analysis** |  Reduce dimensionality and find hidden patterns in a dataset of economic and health indicators to segment regions. Validated using discriminant analysis: **81.4% de precision**. | `SAS` `PCA` `Clustering` | [View project →](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis) |
 | 🏠 **Airbnb Price Prediction (Bologna)** | End-to-end accommodation price prediction project (~4,600 listings, 80 variables) featuring advanced data cleaning, feature engineering, and formal missing data diagnosis (MCAR/MAR). Best model: **R² = 0.5071**. | `Python` `Pandas` `Scikit-Learn` `Missingno` | [View project →](https://github.com/laulop27/airbnb-price-prediction-bologna) |
- 
+ | 🛒 **Inditex Database Design** | Design and implementation of a relational database (MySQL) for managing stores, sales, and suppliers, featuring triggers and 18 business queries.
+ | `MySQL` `SQL` `Database Design` | [View project →](https://github.com/laulop27/nombre-del-repo) |
 👉 You can see the rest of my projects in my [repositories](https://github.com/laulop27?tab=repositories).
 
 ---
