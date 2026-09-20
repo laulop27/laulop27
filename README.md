@@ -56,14 +56,12 @@ Hi 👋, I'm Laura López
 
 ---
 
-# 📊 GitHub Activity and Stats
+<div align="center">
+  <h2>📊 Estadísticas & Lenguajes</h2>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laulop27&theme=radical)
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=laulop27&theme=radical" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laulop27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulop27&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</div>
 
 ---
 
