@@ -48,7 +48,7 @@ Hi 👋, I'm Laura López
  
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
-| 🚗 **Used Car Price Prediction** | Machine learning project to predict second-hand car prices using real-world data. Best model: **R² = 0.8621**. | `R` `Random Forest` `Gradient Boosting` | [Ver repo →](https://github.com/laulop27/prediccion-precios-coches) |
+| 🚗 **Used Car Price Prediction** | Machine learning project to predict second-hand car prices using real-world data. Best model: **R² = 0.8621**. | `R` `Random Forest` `Gradient Boosting` | [View project →](https://github.com/laulop27/prediccion-precios-coches) |
 | 🧬 **Socioeconomic and Cancer Analysis** | Reducción de dimensionalidad (PCA) y clustering para segmentar regiones según indicadores socioeconómicos y de salud. Validado con análisis discriminante: **81.4% de precisión**. | `SAS` `PCA` `Clustering` | [Ver repo →](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis) |
 | 🏠 **Airbnb Price Prediction (Bologna)** | Predicción de precios de alojamientos (~4,600 listings, 80 variables) con limpieza avanzada, feature engineering y diagnóstico formal de datos faltantes (MCAR/MAR). Resultado: **R² = [pendiente]**. | `Python` `Pandas` `Scikit-Learn` `Missingno` | [Ver repo →](https://github.com/laulop27/airbnb-price-prediction-bologna) |
  
