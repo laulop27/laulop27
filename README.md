@@ -49,10 +49,10 @@ Hi 👋, I'm Laura López
 | Proyecto | Descripción | Stack | Link |
 |---|---|---|---|
 | 🚗 **Used Car Price Prediction** | Machine learning project to predict second-hand car prices using real-world data. Best model: **R² = 0.8621**. | `R` `Random Forest` `Gradient Boosting` | [View project →](https://github.com/laulop27/prediccion-precios-coches) |
-| 🧬 **Socioeconomic and Cancer Analysis** | Reducción de dimensionalidad (PCA) y clustering para segmentar regiones según indicadores socioeconómicos y de salud. Validado con análisis discriminante: **81.4% de precisión**. | `SAS` `PCA` `Clustering` | [Ver repo →](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis) |
-| 🏠 **Airbnb Price Prediction (Bologna)** | Predicción de precios de alojamientos (~4,600 listings, 80 variables) con limpieza avanzada, feature engineering y diagnóstico formal de datos faltantes (MCAR/MAR). Resultado: **R² = [pendiente]**. | `Python` `Pandas` `Scikit-Learn` `Missingno` | [Ver repo →](https://github.com/laulop27/airbnb-price-prediction-bologna) |
+| 🧬 **Socioeconomic and Cancer Analysis** |  Reduce dimensionality and find hidden patterns in a dataset of economic and health indicators to segment regions. Validated using discriminant analysis: **81.4% de precision**. | `SAS` `PCA` `Clustering` | [View project →](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis) |
+| 🏠 **Airbnb Price Prediction (Bologna)** | End-to-end accommodation price prediction project (~4,600 listings, 80 variables) featuring advanced data cleaning, feature engineering, and formal missing data diagnosis (MCAR/MAR). Best model: **R² = [pendiente]**. | `Python` `Pandas` `Scikit-Learn` `Missingno` | [View project →](https://github.com/laulop27/airbnb-price-prediction-bologna) |
  
-👉 Puedes ver el resto de mis proyectos en mis [repositorios](https://github.com/laulop27?tab=repositories).
+👉 You can see the rest of my projects in my [repositories](https://github.com/laulop27?tab=repositories).
 
 ---
 
