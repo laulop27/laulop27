@@ -45,74 +45,14 @@ Hi 👋, I'm Laura López
 ---
 
 # 🚀 Featured Projects
-
-### 🚗 Used Car Price Prediction
-
-Machine learning project to predict second-hand car prices using real-world data.
-
-> **Key Steps**
-
-- Data cleaning and preprocessing
-- Feature engineering
-- Model training and evaluation
-- Cross Validation
-
-> **Models Used**
-
-- Random Forest
-- Gradient Boosting
-- Decision Trees
-- StepBIC Regression
-
-> **Results**
-
-Best model achieved **R² = 0.8621** on test data.
-
-**Tech Stack**
-
-`R` `Machine Learning` `Random Forest` `Gradient Boosting`
-
-👉 [View Project](https://github.com/laulop27/prediccion-precios-coches)
-
----
-
-### 🧬 Unsupervised Machine Learning: Socioeconomic and Cancer Analysis
-* **Objective:** Reduce dimensionality and find hidden patterns in a dataset of economic and health indicators to segment regions.
-> **Trained Models:**
-
-Principal Component Analysis (PCA), Clustering (Hierarchical and Non-Hierarchical), and Discriminant Analysis.
-> **Results:**
-
-Creation of robust sociodemographic clusters, validated through discriminant functions with an 81.4% accuracy in classifying new observations.
-
-> *Technical Stack:*
-
-`SAS`, `Multivariate Analysis`, `Dimensionality Reduction`, `Clustering`.
-
-👉 [View Project](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis)
-
----
-
-### 🏠 Airbnb Accommodation Price Prediction (Bologna)
-
-Personal Machine Learning project using real-world data from Inside Airbnb (~4,600 listings, 80 variables) to predict accommodation prices.
-
-> **Key Steps**
-
-- Comprehensive dataset cleaning and encoding error fixes
-- Multicollinearity detection and outlier treatment
-- Feature engineering from JSON fields
-- Formal diagnosis of missing data mechanisms (MCAR/MAR) using nullity matrices, validating the relationship between missing host response data and listing age
-
-> **Results**
-
-Achieved **R² = [Inserta tu R² aquí]** with [Nombre del modelo principal].
-
-**Tech Stack**
-
-`Python` `Pandas` `Scikit-Learn` `Seaborn` `Missingno` `Machine Learning`
-
-👉 [View Project](https://github.com/laulop27/airbnb-price-prediction-bologna)
+ 
+| Proyecto | Descripción | Stack | Link |
+|---|---|---|---|
+| 🚗 **Used Car Price Prediction** | Predicción de precios de coches de segunda mano con Random Forest, Gradient Boosting y StepBIC Regression. Mejor modelo: **R² = 0.8621**. | `R` `Random Forest` `Gradient Boosting` | [Ver repo →](https://github.com/laulop27/prediccion-precios-coches) |
+| 🧬 **Socioeconomic and Cancer Analysis** | Reducción de dimensionalidad (PCA) y clustering para segmentar regiones según indicadores socioeconómicos y de salud. Validado con análisis discriminante: **81.4% de precisión**. | `SAS` `PCA` `Clustering` | [Ver repo →](https://github.com/laulop27/Socioeconomic-and-Cancer-Analysis) |
+| 🏠 **Airbnb Price Prediction (Bologna)** | Predicción de precios de alojamientos (~4,600 listings, 80 variables) con limpieza avanzada, feature engineering y diagnóstico formal de datos faltantes (MCAR/MAR). Resultado: **R² = [pendiente]**. | `Python` `Pandas` `Scikit-Learn` `Missingno` | [Ver repo →](https://github.com/laulop27/airbnb-price-prediction-bologna) |
+ 
+👉 Puedes ver el resto de mis proyectos en mis [repositorios](https://github.com/laulop27?tab=repositories).
 
 ---
 
